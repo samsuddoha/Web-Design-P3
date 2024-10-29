@@ -1,6 +1,6 @@
 # Important Notice for All Students
 
-Here are some important updates and instructions as we conclude the course:
+Here are some important updates and instructions about this course:
 
  ## 1. Class Start date:
 - Batch 3 & 4: 20 October 2024.
