@@ -21,7 +21,7 @@ Here are some important updates and instructions as we conclude the course:
 
 ## 5. Profile Link Submission:
 - Follow the dealine below to submit all three profiling.
-# LinkedIN Profile:
+### LinkedIN Profile:
 Submit your [LinkedIN](https://bd.linkedin.com/) Profile link in the following google sheet. Just click on your batch and you will find your roll and name, just put your profile link in the mentioned box.
 
 - **Deadline: 2 Nov**
@@ -29,7 +29,7 @@ Submit your [LinkedIN](https://bd.linkedin.com/) Profile link in the following g
 - [Batch 4](https://docs.google.com/spreadsheets/d/15Dmqgy7DNxgMjykcA4DSoymebDst0VEbUIWyozsGilc/edit?gid=0#gid=0)
 - [Batch 5](https://docs.google.com/spreadsheets/d/1ibD8BX21qKNeBkOpJrVnCdIsSxr1y9sSl8WFGBYw5ew/edit?gid=0#gid=0)
 
-# Freelancing Profile:
+### Freelancing Profile:
 Submit your freelancing profile link in the following google sheet. Create a profile in any of the freelancing website from : [Fiverr](https://www.fiverr.com/),  [Upwork](https://www.upwork.com/), and [Freelancer](https://www.freelancer.com/?gad_source=1&gclid=EAIaIQobChMI8ZHJzaydiQMVUhCDAx3wchg-EAAYASAAEgJbXPD_BwE&ft_prog=ABL&ft_prog_id=617725303593).
 
 - **Deadline: 10 Nov**
@@ -42,7 +42,7 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 - Will be announced soon.
 
 
-## 4. Final Exam:
+## 7. Final Exam:
 - Date and details will be announced soon.
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation.
