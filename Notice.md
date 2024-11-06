@@ -10,12 +10,12 @@ Here are some important updates and instructions about this course:
 - Will be announced soon
 
 ## 3. Quiz Exam:
-- Quiz 1: Batch 3 & 4 --> 1 Nov (Friday) and Batch 5 --> 2 Nov (Saturday)
+- Quiz 1: Batch 3 & 4 --> 3 Nov (Sunday) and Batch 5 --> 4 Nov (Monday)
 - Quiz 2: Will be announced soon.
 
 ## 4. Mid Exam:
-- Batch 3 & 4 --> **8 Nov (Friday)** 
-- Batch 5 --> **9 Nov (Saturday)**
+- Batch 3 & 4 --> **15 Nov (Friday)** 
+- Batch 5 --> **16 Nov (Saturday)**
 
 
 
