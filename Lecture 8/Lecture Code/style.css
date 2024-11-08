@@ -1,0 +1,26 @@
+
+.div1{
+
+    background-color:aquamarine;
+    height: 300px;
+    width: 30%;
+    text-align: center;
+    border: 5PX red solid;
+    padding: 20PX;
+    margin-top: 150PX ;
+    margin-left: 33%;
+    border-radius: 10PX;
+}
+
+input{
+    padding: 7px 0;
+    margin: 10px 0;
+    width: 100%;
+
+}
+input[type=submit]{
+
+    background-color: green;
+    color: white;
+
+}
