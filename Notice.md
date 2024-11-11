@@ -14,8 +14,9 @@ Here are some important updates and instructions about this course:
 - Quiz 2: Will be announced soon.
 
 ## 4. Mid Exam:
-- Batch 3 & 4 --> **15 Nov (Friday)** 
-- Batch 5 --> **16 Nov (Saturday)**
+- Batch 3: **15 Nov (Friday)** (9.00am-11.30am) at Networking Lab 
+- Batch 4: **15 Nov (Friday)** (11.30am-3.00pm) at Networking Lab 
+- Batch 5: **15 Nov (Friday)** (9.00am-11.30pm) at IOT Lab 
 
 
 
