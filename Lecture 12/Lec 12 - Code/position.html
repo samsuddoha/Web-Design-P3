@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main-c{
+            display: flex; 
+        }
+        .left-div{
+            width:19%;
+            background-color: red;
+            height: 200px;
+        }
+        .right-div{
+            width: 78%;
+            background-color: green;
+            height:200px
+        }
+       
+        .rect {
+        width: 500px;
+        height: 300px;
+        background-color: green;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative; /* Add this */
+    }
+    .cir {
+        background-color: red;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%; /* Adjust to center vertically */
+        left: 50%; /* Adjust to center horizontally */
+        transform: translate(-50%, -50%); /* Adjust to align center */
+    }
+    </style>
+</head>
+<body>
+    <div class="main-c">
+        <div class="left-div">
+            div 1
+        </div>
+        <div class="right-div">
+            div 2
+        </div>
+    </div>
+    <div class="rect">
+        <div class="cir">
+
+        </div>
+    </div>
+</body>
+</html>
