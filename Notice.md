@@ -49,6 +49,8 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 
 ## 7. Final Exam:
-- Date and details will be announced soon.
+- Tentative Final Exam date: 
+-- **Batch 3 & batch 4: 3 December 2024**
+-- **Batch 5: 4 December 2024**
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation.
