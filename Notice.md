@@ -47,6 +47,12 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 - [Batch 4](https://docs.google.com/spreadsheets/d/15Dmqgy7DNxgMjykcA4DSoymebDst0VEbUIWyozsGilc/edit?gid=554855209#gid=554855209)
 - [Batch 5](https://docs.google.com/spreadsheets/d/1ibD8BX21qKNeBkOpJrVnCdIsSxr1y9sSl8WFGBYw5ew/edit?gid=554855209#gid=554855209)
 
+## 7. Project Submission:
+- Tentative date of Project Verification: 
+-- **Batch 3 & batch 4: 1 December 2024**
+-- **Batch 5: 2 December 2024**
+- For details about project visit here: [Project]() 
+
 
 ## 7. Final Exam:
 - Tentative Final Exam date: 
