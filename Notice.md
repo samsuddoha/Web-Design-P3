@@ -59,4 +59,4 @@ Submit your freelancing profile link in the following google sheet. Create a pro
     - Batch 3 & batch 4: **3 December 2024**
     - Batch 5: **4 December 2024**
 
-Please ensure that all tasks are completed on time to avoid any delays in your final evaluation.
+Please ensure that all tasks are completed on time to avoid any delays in your final evaluation. If you need any help regarding profile creation (LinkedIn, Freelancing, Github), assignment and project submission, don't hesitate to contact me during class time or contact with class assigntant. 
