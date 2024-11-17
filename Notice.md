@@ -40,7 +40,12 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 
 ## 6. Assignment Submission:
-- Will be announced soon.
+- Last date of assignment Submission: 22 November.
+- Find assignment details: [Assignment](https://github.com/samsuddoha/Web-Design-P3/tree/main/Assignment)
+- Share your github link (code and hosting site) here: 
+- [Batch 3](https://docs.google.com/spreadsheets/d/1gZHqi03ZhgSW1Vn_4_u8ap3qVJ_fYK2AuFGBNTzK8iA/edit?gid=554855209#gid=554855209)
+- [Batch 4](https://docs.google.com/spreadsheets/d/15Dmqgy7DNxgMjykcA4DSoymebDst0VEbUIWyozsGilc/edit?gid=554855209#gid=554855209)
+- [Batch 5](https://docs.google.com/spreadsheets/d/1ibD8BX21qKNeBkOpJrVnCdIsSxr1y9sSl8WFGBYw5ew/edit?gid=554855209#gid=554855209)
 
 
 ## 7. Final Exam:
