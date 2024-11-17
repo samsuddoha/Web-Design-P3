@@ -28,16 +28,19 @@ The project can be based on any topic of your choice. Here are few sample ideas.
 - Restaurant Website
 - Travel Blog
 - Online Learning Platform
-- You can check the example website linked below. Open it on a laptop or desktop for the best view. However, do not replicate the design or concept—it's just for your reference. Blood Bank Management System - [Click Here](https://muaaz-bin.github.io/EDGE-WEB/) 
-- Submit your project idea in the following Google Sheet:
-    - Web Design Batch 1 - [Click Here](https://docs.google.com/spreadsheets/d/1gWZAm0KqplZMSUsS-IztnK1xVIGqLvwAuAK7q0YX59k/edit?gid=1594879246#gid=1594879246)
-    - Web Design Batch 2 - [Click Here](https://docs.google.com/spreadsheets/d/1XbqNVms78bpslGY2CPRTG4pGpL3KyqnefT-idvQEZrw/edit?gid=1609050715#gid=1609050715)
+- You can check the example website linked below. Open it on a laptop or desktop for the best view. However, do not replicate the design or concept—it's just for your reference. 
+- [Blood Bank Management System](https://muaaz-bin.github.io/EDGE-WEB/) 
+
 ## 3. Submission Guidelines:
 You have to submit your project in github repository.
 - Create a new repository on GitHub.
 - Push your project folder to the repository.
 - Make sure your repository is public.
-- We will check your project from your github profile that you have shared in Google Sheet.
+- Host your project from settings->pages to generate output.
+- Share your code link and host link in the following google sheet:
+    - [Batch 3](https://docs.google.com/spreadsheets/d/1gZHqi03ZhgSW1Vn_4_u8ap3qVJ_fYK2AuFGBNTzK8iA/edit?gid=1778336482#gid=1778336482)
+    - [Batch 4](https://docs.google.com/spreadsheets/d/15Dmqgy7DNxgMjykcA4DSoymebDst0VEbUIWyozsGilc/edit?gid=1778336482#gid=1778336482)
+    - [Batch 5](https://docs.google.com/spreadsheets/d/1ibD8BX21qKNeBkOpJrVnCdIsSxr1y9sSl8WFGBYw5ew/edit?gid=1778336482#gid=1778336482)
 
 
 ## 4. Deadline: 

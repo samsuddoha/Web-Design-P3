@@ -51,10 +51,10 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 - Tentative date of Project Verification: 
 -- **Batch 3 & batch 4: 1 December 2024**
 -- **Batch 5: 2 December 2024**
-- For details about project visit here: [Project]() 
+- For details about project visit here: [Project](https://github.com/samsuddoha/Web-Design-P3/blob/main/Project.md) 
 
 
-## 7. Final Exam:
+## 8. Final Exam:
 - Tentative Final Exam date: 
 -- **Batch 3 & batch 4: 3 December 2024**
 -- **Batch 5: 4 December 2024**
