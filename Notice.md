@@ -7,16 +7,16 @@ Here are some important updates and instructions about this course:
 - Batch 5: 21 October 2024.
 
  ## 2. End of Class (Expected):
-- Will be announced soon
+- Everything will be closed by 4th December (Expected).
 
 ## 3. Quiz Exam:
 - Quiz 1: Batch 3 & 4 --> 3 Nov (Sunday) and Batch 5 --> 4 Nov (Monday)
-- Quiz 2: Will be announced soon.
+- Quiz 2: Batch 3 & 4: **22 Nov** and Batch 5: **23 Nov**.
 
 ## 4. Mid Exam:
-- Batch 3: **15 Nov (Friday)** (9.00am-11.30am) at Networking Lab 
-- Batch 4: **15 Nov (Friday)** (11.30am-3.00pm) at Networking Lab 
-- Batch 5: **15 Nov (Friday)** (9.00am-11.30pm) at IOT Lab 
+- Batch 3: **16 Nov (Saturday)** (9.00am-11.30am) at Networking Lab 
+- Batch 4: **16 Nov (Saturday)** (11.30am-3.00pm) at Networking Lab 
+- Batch 5: **16 Nov (Saturday)** (9.00am-11.30pm) at IOT Lab 
 
 
 
@@ -49,14 +49,14 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 ## 7. Project Submission:
 - Tentative date of Project Verification: 
--- **Batch 3 & batch 4: 1 December 2024**
--- **Batch 5: 2 December 2024**
+    - Batch 3 & batch 4: **1 December 2024**
+    - Batch 5: **2 December 2024**
 - For details about project visit here: [Project](https://github.com/samsuddoha/Web-Design-P3/blob/main/Project.md) 
 
 
 ## 8. Final Exam:
 - Tentative Final Exam date: 
--- **Batch 3 & batch 4: 3 December 2024**
--- **Batch 5: 4 December 2024**
+    - Batch 3 & batch 4: **3 December 2024**
+    - Batch 5: **4 December 2024**
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation.
