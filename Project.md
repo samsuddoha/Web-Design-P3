@@ -36,7 +36,7 @@ You have to submit your project in github repository.
 - Create a new repository on GitHub.
 - Push your project folder to the repository.
 - Make sure your repository is public.
-- Host your project from settings->pages to generate output.
+- Host your project by navigating to **Settings > Pages** to generate a live URL of your project.
 - Share your code link and host link in the following google sheet:
     - [Batch 3](https://docs.google.com/spreadsheets/d/1gZHqi03ZhgSW1Vn_4_u8ap3qVJ_fYK2AuFGBNTzK8iA/edit?gid=1778336482#gid=1778336482)
     - [Batch 4](https://docs.google.com/spreadsheets/d/15Dmqgy7DNxgMjykcA4DSoymebDst0VEbUIWyozsGilc/edit?gid=1778336482#gid=1778336482)
