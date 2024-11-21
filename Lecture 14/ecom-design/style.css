@@ -1,0 +1,146 @@
+
+/*Header */
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    width: 70px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+/*Nav bar*/
+nav{
+
+    background-color: #1e563b;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+	
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    margin: 0 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding: 15px;
+}
+nav ul li a:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 7px;
+    transition: background-color 0.7s ease;
+}
+
+/* hero section */
+.hero{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+.hero h1{
+    font-size: 45px;
+}
+.hero button{
+    background-color: white;
+    color: red;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.hero button:hover{
+    background-color: rgb(217, 121, 121);
+}
+
+/* service section */
+.service{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.service h2{
+    color: red;
+}
+
+/* product section */
+.product{
+    background-color: gainsboro;
+    padding: 10px;
+    text-align: center;
+    margin-bottom:80px;
+    /* display: flex;
+    justify-content: center; */
+}
+.pro{
+    width: 20%;
+    height: auto;
+    background-color: white;
+    box-shadow: 0 0 10px 2px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+.pro img{
+    width: 100%;
+    height: auto;
+}
+.pro p{
+    color: red;
+}
+.pro button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.pro button:hover{
+    background-color: rgb(217, 121, 121);
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+}
+
+.main-content{
+    height: 600px; 
+    background-image: url('product.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+/*css for product page*/
