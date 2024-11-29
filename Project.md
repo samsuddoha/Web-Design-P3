@@ -44,5 +44,5 @@ You have to submit your project in github repository.
 
 
 ## 4. Deadline: 
-- Submit your project before **1st December**.
+- Follow the timeline that mention in notice.
 
